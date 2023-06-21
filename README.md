@@ -18,3 +18,6 @@ Write a Java program that generates a tag cloud from a given input text. The sol
 - You must use the SimpleReader and SimpleWriter family components for all the input and output needed.
 - You must use the Map family components to keep track of the words and their counts.
 - You must use the SortingMachine family components for all the sorting needed.
+- You must use the FileReader/BufferedReader and FileWriter/BufferedWriter/PrintWriter components for all the file input and output needed.
+- You must use the Java Collections Framework components for all the data storing and sorting needed.
+- You must catch and handle appropriately (e.g., by outputing meaningful error messages) all the IOExceptions that may be thrown by the file I/O code.
