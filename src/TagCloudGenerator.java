@@ -15,7 +15,7 @@ import java.util.Set;
 
 /**
  *
- * @author Rohan Patel, Zack Zhu
+ * @author Rohan Patel
  *
  */
 
